@@ -2,6 +2,7 @@
  26/APR/2012 - Easy to use program to auto input 'invite codes' into the popular game TurfWars, developed to mimic real world typing.
 
 Example codes.txt
+
 	IPHONE
 	C@SH
 	038
@@ -19,6 +20,7 @@ Example codes.txt
 	CZT
 
 Example temp.txt
+
 	-605-614
 	-634-731
 	-681-065
