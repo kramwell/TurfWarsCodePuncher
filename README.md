@@ -1,6 +1,8 @@
 # TurfWarsCodePuncher
  26/APR/2012 - Easy to use program to auto input 'invite codes' into the popular game TurfWars, developed to mimic real world typing.
 
+![Screenshot](TurfWarsCodePuncher-screenshot.PNG)
+
 Example codes.txt
 
 	IPHONE
